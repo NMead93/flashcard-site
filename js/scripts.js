@@ -1,0 +1,10 @@
+$(function() {
+  $(".column").click(function() {
+    
+  })
+
+
+
+
+
+})
